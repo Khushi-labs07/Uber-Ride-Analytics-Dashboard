@@ -45,3 +45,10 @@ The Uber Ride Analytics Dashboard is an interactive Power BI dashboard designed 
 
 ## Screenshots
 Dashboard screenshots are available in the `screenshots` folder.
+
+## Dashboard Screenshots
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Key Metrics
+![Key Metrics](screenshots/key_metrics.png)
